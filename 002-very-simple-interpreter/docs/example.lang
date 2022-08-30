@@ -1,0 +1,7 @@
+read $x
+$x = 9/4
+$y = 2
+$z = 4
+$w = 50+2*2
+write $w
+write $x

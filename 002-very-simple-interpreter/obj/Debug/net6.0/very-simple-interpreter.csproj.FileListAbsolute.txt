@@ -1,0 +1,30 @@
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.exe
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.deps.json
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.runtimeconfig.json
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.pdb
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\refint\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.pdb
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\ref\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.exe
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.deps.json
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\bin\Debug\net6.0\very-simple-interpreter.pdb
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\refint\very-simple-interpreter.dll
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.pdb
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\very-simple-interpreter.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Nova pasta\compilers101-main\first-steps\002-very-simple-interpreter\obj\Debug\net6.0\ref\very-simple-interpreter.dll
